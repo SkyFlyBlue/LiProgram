@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="gb2312"?>
+
+<User> 
+  <number id="13961632236"> 
+    <name>里</name>  
+    <password>123</password>  
+    <money>92.0</money>  
+    <package>话痨套餐</package>  
+    <talkTime>500</talkTime>  
+    <smsCount>30</smsCount>  
+    <spendBill>问候客户，谁知其如此难缠，通话90分钟。询问妈妈身体情况，本地通话30分钟。和女朋友用微信视频聊天，使用流量1GB。问候客户，谁知其如此难缠，通话90分钟。 问候客户，谁知其如此难缠，通话90分钟因余额不足本次只能通话:0分钟。 问候客户，谁知其如此难缠，通话90分钟因余额不足本次只能通话:0分钟。 通知朋友手机换号，发送短信50条因余额不足本次只能发送短信:0条。 参与环境保护实施方案问卷调查，发送短信5条因余额不足本次只能发送短信:0条。 问候客户，谁知其如此难缠，通话90分钟因余额不足本次只能通话:0分钟。</spendBill>  
+    <price>342.0</price> 
+  </number>  
+  <number id="13911440819"> 
+    <name>li</name>  
+    <password>123</password>  
+    <money>42.0</money>  
+    <package>话痨套餐</package>  
+    <talkTime>410</talkTime>  
+    <smsCount>30</smsCount>  
+    <spendBill>问候客户，谁知其如此难缠，通话90分钟。</spendBill> 
+  </number>  
+  <number id="13988712223"> 
+    <name>1</name>  
+    <password>1</password>  
+    <money>3998.0</money>  
+    <package>话痨套餐</package>  
+    <talkTime>500</talkTime>  
+    <smsCount>0</smsCount>  
+    <spendBill>和女朋友用微信视频聊天，使用流量1GB因余额不足本次只能消费流量:420MB。和女朋友用微信视频聊天，使用流量1GB。通知朋友手机换号，发送短信50条。和女朋友用微信视频聊天，使用流量1GB。</spendBill>  
+    <price>202.0</price>  
+    <price>0</price>  
+    <price>0</price>
+  </number> 
+</User>
